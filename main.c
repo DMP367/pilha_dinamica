@@ -5,7 +5,7 @@
 
 int main(void) {
 
-	pilha_t* p;
+	Pilha p;
 	pilha_inicia(&p);
 	int i;
 
